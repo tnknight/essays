@@ -5,7 +5,8 @@ This workshop will walk you through the steps to set up a Juncture/GitHub accoun
 
 #Codex Tulane or Códice Hamelulpan
 
-.ve-media gh: tnknight/media/testing/halloween_test.jpg right
+.ve-media gh:tnknight/media/testing/halloween_test.jpg right
+
 gh:annhanlon/media/codex-tulane/Codex_Tulane_on_exhibit.jpg right
 The Codex Tulane or Códice Hamelulpan provides a fascinating example of the adaptability and re-purposing of native texts within changing historical contexts.  Like most post-contact codices, the Codex Tulane was likely composed in the early decades of Spanish rule (ca. 1550s) to establish an authoritative lineage or lineages vying for territorial rights and privileges.  Painted on gessoed pieces of deer hide are 15 generations of royal ancestors spanning 300 years of marital history from two ==Mixtec-speaking=={Q36363} towns, Acatlán and Chila, located in what is today southern Puebla and northern Oaxaca, Mexico.  The document was painted for Mixtec elites to support their claims before Spanish colonial administrators who likely would not have understood the Mixtec glyphs or the rolled out format but would have respected its native provenance and visual impressiveness.  This alone would have conferred on the document a kind of discursive authority which local caciques deployed in their favor. The physical characteristics and textual content of the piece combine pre-contact pictorial conventions of both Mixtec and Aztec indigenous scribes, such as the deerskin substrate and the use of the native calendar, hieroglyphics, and iconography.  Notable too is the continued indigenous practice of beginning the manuscript with references to the creation of the world, iconic places, and principal deities, thereby extending the reign of these two noble houses back into the mythological past and connecting them to the political history of the region.
 
@@ -22,7 +23,10 @@ These images are part of a mid-sixteenth century Mesoamerican painted manuscript
 This manuscript map, known as the Tira de Santa Catarina Ixtepeji and housed at the University of Wisconsin-Milwaukee Library's American Geographical Society Library, is hand-painted and recounts part of the history of Santa Catarina Ixtepeji, in the Ixtlán District in the Sierra Norte region of Oaxaca in southwestern Mexico. The scroll tells the history of leadership and land ownership, and is believed to have been written in both the local Zapotec and Spanish languages. Its purpose was to regularize land titles and ownership in the eyes of the bureaucracy of the Spanish Empire. There are two dates (1691 and 1709 A.D.) inscribed on it that are believed to be the dates it was used as a visual aid in making a presentation to Imperial officials. Similar to the Tulane Codex, this is also post-contact but nearly a century older.
 
 #Using images from Wikimedia Commons
-.ve-media wc:Aztlan_codex_boturini.jpg left
+.ve-media wc:Ankara_asv2021-10_img73_Republic_Museum.jpg left
+
+wc:Aztlan_codex_boturini.jpg left
+
 Wikimedia Commons describes this image as part of the Boturini Codex. The licensing information indicates that this image is in the public domain. I have used the "left" position tag in order to shrink it to 50% size and position it at the left margin of the screen, with this text on the right. [^1]
 
 You can zoom in to see the the artist's depiction of the ==Mexica departing from Aztlán=={200,200,400,400}.
